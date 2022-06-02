@@ -43,7 +43,10 @@ Bila semua data sudah siap dan data wajah sudah melewati preprocess, maka langka
 
 ## Jalankan file recogabsen.py
 
-Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yang telah kita buat!!!
+Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yang telah kita buat!!! Sistem akan mengenali wajah yang ada dihadapannya, setelah berhasil dikenali sistem akan secara otomatis memasukkan datanya kedalam tabel absensi yang dituju saat itu. Akan ada 3 data tambahan yang terupdate setelah tahap ini, yaitu:
+- Tanda kehadiran
+- Tanggal
+- Waktu dilakukannya absensi
 
 # Interface 
 
