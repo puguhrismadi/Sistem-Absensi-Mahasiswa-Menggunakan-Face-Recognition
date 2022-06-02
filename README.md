@@ -23,6 +23,8 @@ Untuk mengisikan data mahasiswa yang ada didalam kelas maka lakukanlah dengan me
 
 Kemudian secara otomatis sistem akan menambahkan 3 data diatas ke tiap tabel absensi mata pelajaran kelas mereka.
 
+![Picture2_absen](https://user-images.githubusercontent.com/73339446/171724820-55e90330-a8b5-475d-b971-0df0fc0602a9.png)
+
 Note*:
 1. Bila peneliti selanjutnya ingin menambahkan data wajah secara manual karena menggunakan contoh data wajah random dari social media atau google gambar, maka catatannya adalah PASTIKAN NAMA FOLDER SESUAI NAMA PEMILIK DATA WAJAH DAN SESUAIKAN NAMA ITU JUGA DENGAN NAMA YANG TERCANTUM PADA DATABASE. Ini penting karena sistem akan melakukan identifikasi berdasarkan nama folder dan mencocokkannya juga dengan nama yang tersimpan di database.
 2. Bila peneliti selanjutnya ingin mengambil data wajah langsung melalui webcam, pada file Dataset.py ini sudah tersedia kodingan untuk pengambilan data wajah tersebut. Silahkan langsung dihapuskan saja tanda komentar atau # yang terdapat pada kodingan, kemudian barulah menjalankan file Dataset.py. Nantinya setelah mengisikan data diri yang diminta untuk kebutuhan database, sistem akan secara otomatis membuka webcam komputer untuk pengambilan data wajah.
@@ -46,6 +48,19 @@ Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yan
 # Interface 
 
 Kami sudah membuat interface yang bisa diakses dengan menjalankan file interface_mahasiswa.py!
+
+![Picture1](https://user-images.githubusercontent.com/73339446/171724289-4a7b5c6a-0f72-411a-89f5-9a8bebaa05e5.png)
+![Picture2](https://user-images.githubusercontent.com/73339446/171724306-4520dfa5-1723-40fe-8d7a-e749640237d6.png)
+![Picture3](https://user-images.githubusercontent.com/73339446/171724315-0231b154-e574-4481-a168-ecee2a0b0673.png)
+![Picture4](https://user-images.githubusercontent.com/73339446/171724329-8484846c-d407-4ea6-9cbb-947f2edf5d98.png)
+![Picture5](https://user-images.githubusercontent.com/73339446/171724337-c3c3fd11-10c6-44cb-848b-a010fe32043a.png)
+
+#### Absensi
+![Picture6](https://user-images.githubusercontent.com/73339446/171724349-3ead873c-b827-4d24-afab-b2ff6ad217c2.png)
+
+#### Hasil Absensi
+![Picture1_absen](https://user-images.githubusercontent.com/73339446/171724687-d6d6de98-761b-4343-b0d4-262dcb90f825.png)
+
 
 Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan hanya membantu kalian dalam pembuatan aplikasi tetapi juga memberikan kalian ide bagaimana inovasi terbaik yang bisa dibuat untuk selanjutnya.
 
