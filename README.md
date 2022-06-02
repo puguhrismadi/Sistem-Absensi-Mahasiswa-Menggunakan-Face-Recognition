@@ -14,7 +14,7 @@ Note*: Diharapkan peneliti selanjutnya bisa membuatkan database langsung pada ap
 
 ![Screenshot 2022-06-03 020119](https://user-images.githubusercontent.com/73339446/171714167-2fd68809-99fe-4f8f-9a23-f9f22a377e6a.png)
 
-## Jalankan file Dataset.py
+## 2. Jalankan file Dataset.py
 
 Untuk mengisikan data mahasiswa yang ada didalam kelas maka lakukanlah dengan menjalankan file ini. Diawali dengan mengkoneksikan database kelas yang dituju, lalu isikan 3 data mahasiswa. Data yang perlu diisikan di tahap ini hanyalah:
 - Nama mahasiswa
@@ -26,10 +26,10 @@ Kemudian secara otomatis sistem akan menambahkan 3 data diatas ke tiap tabel abs
 ![Picture2_absen](https://user-images.githubusercontent.com/73339446/171724820-55e90330-a8b5-475d-b971-0df0fc0602a9.png)
 
 Note*:
-1. Bila peneliti selanjutnya ingin menambahkan data wajah secara manual karena menggunakan contoh data wajah random dari social media atau google gambar, maka catatannya adalah PASTIKAN NAMA FOLDER SESUAI NAMA PEMILIK DATA WAJAH DAN SESUAIKAN NAMA ITU JUGA DENGAN NAMA YANG TERCANTUM PADA DATABASE. Ini penting karena sistem akan melakukan identifikasi berdasarkan nama folder dan mencocokkannya juga dengan nama yang tersimpan di database.
-2. Bila peneliti selanjutnya ingin mengambil data wajah langsung melalui webcam, pada file Dataset.py ini sudah tersedia kodingan untuk pengambilan data wajah tersebut. Silahkan langsung dihapuskan saja tanda komentar atau # yang terdapat pada kodingan, kemudian barulah menjalankan file Dataset.py. Nantinya setelah mengisikan data diri yang diminta untuk kebutuhan database, sistem akan secara otomatis membuka webcam komputer untuk pengambilan data wajah.
+- Bila peneliti selanjutnya ingin menambahkan data wajah secara manual karena menggunakan contoh data wajah random dari social media atau google gambar, maka catatannya adalah PASTIKAN NAMA FOLDER SESUAI NAMA PEMILIK DATA WAJAH DAN SESUAIKAN NAMA ITU JUGA DENGAN NAMA YANG TERCANTUM PADA DATABASE. Ini penting karena sistem akan melakukan identifikasi berdasarkan nama folder dan mencocokkannya juga dengan nama yang tersimpan di database.
+- Bila peneliti selanjutnya ingin mengambil data wajah langsung melalui webcam, pada file Dataset.py ini sudah tersedia kodingan untuk pengambilan data wajah tersebut. Silahkan langsung dihapuskan saja tanda komentar atau # yang terdapat pada kodingan, kemudian barulah menjalankan file Dataset.py. Nantinya setelah mengisikan data diri yang diminta untuk kebutuhan database, sistem akan secara otomatis membuka webcam komputer untuk pengambilan data wajah.
 
-## Jalankan preprocess.py
+## 3. Jalankan preprocess.py
 
 Gunakan file ini melakukan proses awal terhadap data wajah.
 
@@ -37,13 +37,13 @@ Note*: Sayangnya kodingan disini sangat amat kurang memadai, karena kodingan ini
 
 Bagi peneliti selanjutnya diharapkan mampu membenarkan file ini agar mampu digunakan, karena preprocess sangat penting bagi akurasi data nantinya.
 
-## Jalankan file train_data.py
+## 4. Jalankan file train_data.py
 
 Bila semua data sudah siap dan data wajah sudah melewati preprocess, maka langkah pemrosesan terakhir pada data adalah training data. Pada langkah ini sistem akan mulai melakukan pengenalan terhadap data wajah dan identitas yang dimilikinya. Pada penelitian ini kami menggunakan MTCNN dari pustaka facenet_pytorch dan pretrained 'vggface2'.
 
 Hasil training data ini menghasilkan: data.pt
 
-## Jalankan file recogabsen.py
+## 5. Jalankan file recogabsen.py
 
 Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yang telah kita buat!!! Sistem akan mengenali wajah yang ada dihadapannya, setelah berhasil dikenali sistem akan secara otomatis memasukkan datanya kedalam tabel absensi yang dituju saat itu. Akan ada 3 data tambahan yang terupdate setelah tahap ini, yaitu:
 - Tanda kehadiran
