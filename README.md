@@ -67,7 +67,7 @@ Kami sudah membuat interface yang bisa diakses dengan menjalankan file interface
 
 Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan hanya membantu kalian dalam pembuatan aplikasi tetapi juga memberikan kalian ide bagaimana inovasi terbaik yang bisa dibuat untuk selanjutnya.
 
-Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang membantu kami dalam pembuatan aplikasi ini tetapi juga telah menginspirasi kami, sehingga terciptalah aplikasi ini!
+Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang membantu kami dalam pembuatan aplikasi ini dan juga telah menginspirasi kami, sehingga terciptalah aplikasi ini!
 
 #
 #### God bless you,
