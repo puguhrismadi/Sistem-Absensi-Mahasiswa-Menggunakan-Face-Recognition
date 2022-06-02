@@ -37,7 +37,7 @@ Bagi peneliti selanjutnya diharapkan mampu membenarkan file ini agar mampu digun
 
 ## Jalankan file train_data.py
 
-Bila semua data sudah siap dan sudah melewati preprocess juga terhadap data wajah, maka langkah pemrosesan terakhir pada data adalah training data. Pada langkah ini sistem akan mulai melakukan pengenalan terhadap data wajah dan identitas yang dimilikinya. Pada penelitian ini kami menggunakan MTCNN dari pustaka facenet_pytorch dan pretrained 'vggface2'.
+Bila semua data sudah siap dan data wajah sudah melewati preprocess, maka langkah pemrosesan terakhir pada data adalah training data. Pada langkah ini sistem akan mulai melakukan pengenalan terhadap data wajah dan identitas yang dimilikinya. Pada penelitian ini kami menggunakan MTCNN dari pustaka facenet_pytorch dan pretrained 'vggface2'.
 
 ## Jalankan file recogabsen.py
 
@@ -52,6 +52,6 @@ Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan h
 Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang bukan hanya mampu membantu kami membuat aplikasi ini tetapi juga mampu menginspirasi kami, sehingga terciptalah aplikasi ini!
 
 
-#God bless you, aamiin 
+# God bless you, aamiin 
 
-#from Vista Sasmita Padmanagara
+# from Vista Sasmita Padmanagara
