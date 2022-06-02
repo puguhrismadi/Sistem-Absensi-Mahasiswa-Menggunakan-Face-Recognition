@@ -47,9 +47,9 @@ Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yan
 
 Kami sudah membuat interface yang bisa diakses dengan menjalankan file interface_mahasiswa.py!
 
-Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan hanya mampu membantu kalian tetapi juga mampu memberikan kalian ide bagaimana cara berinovasi terhadap produk ini.
+Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan hanya membantu kalian dalam pembuatan aplikasi tetapi juga memberikan kalian ide bagaimana inovasi terbaik yang bisa dibuat untuk selanjutnya.
 
-Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang bukan hanya mampu membantu kami membuat aplikasi ini tetapi juga mampu menginspirasi kami, sehingga terciptalah aplikasi ini!
+Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang membantu kami dalam pembuatan aplikasi ini tetapi juga telah menginspirasi kami, sehingga terciptalah aplikasi ini!
 
 
 # God bless you, aamiin 
