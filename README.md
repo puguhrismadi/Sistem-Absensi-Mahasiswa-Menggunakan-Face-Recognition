@@ -67,6 +67,6 @@ Selamat mencoba dan berinovasi para peneliti selanjutnya, kami harap ini bukan h
 Kami ucapkan terimakasih sebesar-besarnya juga terhadap para peneliti sebelumnya yang begitu hebat yang membantu kami dalam pembuatan aplikasi ini tetapi juga telah menginspirasi kami, sehingga terciptalah aplikasi ini!
 
 
-# God bless you, aamiin 
+#### God bless you,
 
-# from Vista Sasmita Padmanagara
+#### from Vista Sasmita Padmanagara
