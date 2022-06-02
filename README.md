@@ -41,6 +41,8 @@ Bagi peneliti selanjutnya diharapkan mampu membenarkan file ini agar mampu digun
 
 Bila semua data sudah siap dan data wajah sudah melewati preprocess, maka langkah pemrosesan terakhir pada data adalah training data. Pada langkah ini sistem akan mulai melakukan pengenalan terhadap data wajah dan identitas yang dimilikinya. Pada penelitian ini kami menggunakan MTCNN dari pustaka facenet_pytorch dan pretrained 'vggface2'.
 
+Hasil training data ini menghasilkan: data.pt
+
 ## Jalankan file recogabsen.py
 
 Inilah saat yang ditunggu-tunggu, yaitu melakukan absensi menggunakan sistem yang telah kita buat!!! Sistem akan mengenali wajah yang ada dihadapannya, setelah berhasil dikenali sistem akan secara otomatis memasukkan datanya kedalam tabel absensi yang dituju saat itu. Akan ada 3 data tambahan yang terupdate setelah tahap ini, yaitu:
